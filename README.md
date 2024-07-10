@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, sou Guilherme!<br><br>👨‍💻 Desenvolvedor Full Stack | 🎓 Estudante de Ciência da Computação<br><br>- Sobre Mim:<br>- 👨‍🎓 Tenho 20 anos e estou cursando Ciência da Computação.<br>- 🌱 Sempre em busca de aprendizado e novos desafios.<br>- 💻 Apaixonado por tecnologia em geral.<br>- 🚀 Comprometido em criar soluções inovadoras e eficientes.<br><br>- Contato:<br>- LinkedIn: https://www.linkedin.com/in/guilhermersouza34<br>- Email: guilhermersouza34@gmail.com
+Olá, sou Guilherme!<br><br>👨‍💻 Desenvolvedor Full Stack | 🎓 Estudante de Ciência da Computação<br><br>- Sobre Mim:<br>- 👨‍🎓 Tenho 21 anos e estou cursando Ciência da Computação.<br>- 🌱 Sempre em busca de aprendizado e novos desafios.<br>- 💻 Apaixonado por tecnologia em geral.<br>- 🚀 Comprometido em criar soluções inovadoras e eficientes.<br><br>- Contato:<br>- LinkedIn: https://www.linkedin.com/in/guilhermersouza34<br>- Email: guilhermersouza34@gmail.com
 
 
 ## 🌐 Socials:
