@@ -1,4 +1,4 @@
-# Guilherme Rodrigues de Souza | Desenvolvedor Full Stack
+# Guilherme Rodrigues de Souza | Software Developer
 Olá, Seja Bem Vindo!<br><br>Ciência da Computação 7/8<br><br>Sobre Mim:<br>- Tenho 22 anos e estou sempre em busca de aprendizado e novos desafios.<br>- Comprometido em criar soluções inovadoras e eficientes.<br>- "A tecnologia é construída por aqueles que ousam inovar e persistem diante dos desafios."<br><br>Contato:<br>- LinkedIn: https://www.linkedin.com/in/guilhermersouza34<br>- Email: guilhermersouza34@gmail.com<br>- WhatsApp: (11) 96648-3451
 
 # 💻 Tech Stack: 
