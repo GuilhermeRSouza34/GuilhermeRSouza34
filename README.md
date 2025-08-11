@@ -10,7 +10,7 @@
 Tenho 22 anos, sou movido por desafios e estou sempre em busca de aprendizado constante.  
 Atuo com desenvolvimento de sistemas web, APIs e soluções corporativas, com foco em entregar valor real através da tecnologia.
 
-Tenho experiência com linguagens como Java, JavaScript, TypeScript, PHP e ADVPL, além de frameworks como Angular, Spring e Laravel.  
+Tenho experiência com linguagens como Java, JavaScript, TypeScript, PHP, ADVPL, TLPP e POUI além de frameworks como Angular, Spring e Laravel.  
 Sou comprometido, proativo e acredito que **a tecnologia é construída por aqueles que ousam inovar e persistem diante dos desafios.**
 
 ---
