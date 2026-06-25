@@ -1,6 +1,6 @@
 # Guilherme Rodrigues de Souza | Software Developer
 
-🎓 Graduando em Ciência da Computação (7/8)  
+🎓 Graduando em Ciência da Computação
 💻 Desenvolvedor de Software apaixonado por criar soluções eficientes e inovadoras  
 📍 São Paulo, Brasil  
 
